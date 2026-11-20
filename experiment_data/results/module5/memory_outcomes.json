@@ -1,0 +1,402 @@
+[
+ {
+  "case_id": "R23_seed123",
+  "algorithm": "CPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 49.26599999982864,
+  "peak_working_set_MiB": 2158.60546875,
+  "sampled_peak_private_MiB": 2407.921875
+ },
+ {
+  "case_id": "R23_seed123",
+  "algorithm": "BPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 45.125,
+  "peak_working_set_MiB": 1282.03125,
+  "sampled_peak_private_MiB": 1392.4140625
+ },
+ {
+  "case_id": "R21_seed123",
+  "algorithm": "CPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 28.985000000335276,
+  "peak_working_set_MiB": 1982.6328125,
+  "sampled_peak_private_MiB": 2010.14453125
+ },
+ {
+  "case_id": "R21_seed123",
+  "algorithm": "BPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 50.860000000335276,
+  "peak_working_set_MiB": 1453.3671875,
+  "sampled_peak_private_MiB": 1534.07421875
+ },
+ {
+  "case_id": "R21_seed124",
+  "algorithm": "BPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 48.82799999974668,
+  "peak_working_set_MiB": 1432.96875,
+  "sampled_peak_private_MiB": 1519.54296875
+ },
+ {
+  "case_id": "R21_seed124",
+  "algorithm": "CPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 28.265999999828637,
+  "peak_working_set_MiB": 2001.2109375,
+  "sampled_peak_private_MiB": 2104.05859375
+ },
+ {
+  "case_id": "R21_seed125",
+  "algorithm": "BPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 50.67200000025332,
+  "peak_working_set_MiB": 1439.26953125,
+  "sampled_peak_private_MiB": 1526.11328125
+ },
+ {
+  "case_id": "R21_seed125",
+  "algorithm": "CPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 27.984000000171363,
+  "peak_working_set_MiB": 1993.76171875,
+  "sampled_peak_private_MiB": 2161.59375
+ },
+ {
+  "case_id": "R21_seed126",
+  "algorithm": "BPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 45.6410000002943,
+  "peak_working_set_MiB": 1439.7109375,
+  "sampled_peak_private_MiB": 1522.58203125
+ },
+ {
+  "case_id": "R21_seed126",
+  "algorithm": "CPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 29.07800000021234,
+  "peak_working_set_MiB": 1994.36328125,
+  "sampled_peak_private_MiB": 2070.19140625
+ },
+ {
+  "case_id": "R21_seed127",
+  "algorithm": "BPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 49.90599999995902,
+  "peak_working_set_MiB": 1431.00390625,
+  "sampled_peak_private_MiB": 1521.859375
+ },
+ {
+  "case_id": "R21_seed127",
+  "algorithm": "CPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 28.686999999918044,
+  "peak_working_set_MiB": 2001.4453125,
+  "sampled_peak_private_MiB": 2146.87109375
+ },
+ {
+  "case_id": "R21_seed128",
+  "algorithm": "BPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 47.625,
+  "peak_working_set_MiB": 1428.80078125,
+  "sampled_peak_private_MiB": 1521.0859375
+ },
+ {
+  "case_id": "R21_seed128",
+  "algorithm": "CPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 28.20300000021234,
+  "peak_working_set_MiB": 2001.1015625,
+  "sampled_peak_private_MiB": 2184.11328125
+ },
+ {
+  "case_id": "R21_seed129",
+  "algorithm": "BPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 50.75,
+  "peak_working_set_MiB": 1441.66796875,
+  "sampled_peak_private_MiB": 1520.37109375
+ },
+ {
+  "case_id": "R21_seed129",
+  "algorithm": "CPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 28.29699999978766,
+  "peak_working_set_MiB": 2006.40625,
+  "sampled_peak_private_MiB": 2102.11328125
+ },
+ {
+  "case_id": "R21_seed130",
+  "algorithm": "BPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 51.78099999995902,
+  "peak_working_set_MiB": 1429.5078125,
+  "sampled_peak_private_MiB": 1522.51953125
+ },
+ {
+  "case_id": "R21_seed130",
+  "algorithm": "CPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 28.890000000130385,
+  "peak_working_set_MiB": 1990.6953125,
+  "sampled_peak_private_MiB": 2116.921875
+ },
+ {
+  "case_id": "R21_seed131",
+  "algorithm": "BPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 56.92200000025332,
+  "peak_working_set_MiB": 1426.7421875,
+  "sampled_peak_private_MiB": 1522.3359375
+ },
+ {
+  "case_id": "R21_seed131",
+  "algorithm": "CPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 28.032000000122935,
+  "peak_working_set_MiB": 1982.8203125,
+  "sampled_peak_private_MiB": 2232.71875
+ },
+ {
+  "case_id": "R21_seed132",
+  "algorithm": "BPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 53.875,
+  "peak_working_set_MiB": 1438.01953125,
+  "sampled_peak_private_MiB": 1521.83203125
+ },
+ {
+  "case_id": "R21_seed132",
+  "algorithm": "CPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 28.688000000081956,
+  "peak_working_set_MiB": 2006.64453125,
+  "sampled_peak_private_MiB": 1917.3203125
+ },
+ {
+  "case_id": "R23_seed124",
+  "algorithm": "BPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 46.70300000021234,
+  "peak_working_set_MiB": 1285.109375,
+  "sampled_peak_private_MiB": 1385.98046875
+ },
+ {
+  "case_id": "R23_seed124",
+  "algorithm": "CPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 49.98400000017136,
+  "peak_working_set_MiB": 2165.015625,
+  "sampled_peak_private_MiB": 2314.4375
+ },
+ {
+  "case_id": "R23_seed125",
+  "algorithm": "BPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 46.07800000021234,
+  "peak_working_set_MiB": 1284.2890625,
+  "sampled_peak_private_MiB": 1386.73046875
+ },
+ {
+  "case_id": "R23_seed125",
+  "algorithm": "CPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 49.125,
+  "peak_working_set_MiB": 2160.8671875,
+  "sampled_peak_private_MiB": 2212.08984375
+ },
+ {
+  "case_id": "R23_seed126",
+  "algorithm": "BPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 44.234999999869615,
+  "peak_working_set_MiB": 1285.1796875,
+  "sampled_peak_private_MiB": 1387.140625
+ },
+ {
+  "case_id": "R23_seed126",
+  "algorithm": "CPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 50.40599999995902,
+  "peak_working_set_MiB": 2164.4609375,
+  "sampled_peak_private_MiB": 2531.3671875
+ },
+ {
+  "case_id": "R23_seed127",
+  "algorithm": "BPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 42.889999999664724,
+  "peak_working_set_MiB": 1283.31640625,
+  "sampled_peak_private_MiB": 1395.84375
+ },
+ {
+  "case_id": "R23_seed127",
+  "algorithm": "CPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 45.609999999869615,
+  "peak_working_set_MiB": 2166.875,
+  "sampled_peak_private_MiB": 2473.46875
+ },
+ {
+  "case_id": "R23_seed128",
+  "algorithm": "BPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 42.29699999978766,
+  "peak_working_set_MiB": 1283.45703125,
+  "sampled_peak_private_MiB": 1392.3203125
+ },
+ {
+  "case_id": "R23_seed128",
+  "algorithm": "CPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 49.1410000002943,
+  "peak_working_set_MiB": 2160.76953125,
+  "sampled_peak_private_MiB": 2000.875
+ },
+ {
+  "case_id": "R23_seed129",
+  "algorithm": "BPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 38.34400000004098,
+  "peak_working_set_MiB": 1284.27734375,
+  "sampled_peak_private_MiB": 1378.89453125
+ },
+ {
+  "case_id": "R23_seed129",
+  "algorithm": "CPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 49.765000000130385,
+  "peak_working_set_MiB": 2165.62109375,
+  "sampled_peak_private_MiB": 2316.4296875
+ },
+ {
+  "case_id": "R23_seed130",
+  "algorithm": "BPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 44.64099999982864,
+  "peak_working_set_MiB": 1282.1015625,
+  "sampled_peak_private_MiB": 1386.01953125
+ },
+ {
+  "case_id": "R23_seed130",
+  "algorithm": "CPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 49.092999999877065,
+  "peak_working_set_MiB": 2155.7421875,
+  "sampled_peak_private_MiB": 2340.65625
+ },
+ {
+  "case_id": "R23_seed131",
+  "algorithm": "BPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 45.79700000025332,
+  "peak_working_set_MiB": 1282.73046875,
+  "sampled_peak_private_MiB": 1393.16796875
+ },
+ {
+  "case_id": "R23_seed131",
+  "algorithm": "CPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 47.03099999995902,
+  "peak_working_set_MiB": 2148.6875,
+  "sampled_peak_private_MiB": 2175.92578125
+ },
+ {
+  "case_id": "R23_seed132",
+  "algorithm": "BPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 48.717999999877065,
+  "peak_working_set_MiB": 1284.69921875,
+  "sampled_peak_private_MiB": 1386.328125
+ },
+ {
+  "case_id": "R23_seed132",
+  "algorithm": "CPA",
+  "classification": "JAVA_HEAP_OOM",
+  "return_code": 1,
+  "termination": "PROCESS_EXIT",
+  "process_wall_seconds": 47.609999999869615,
+  "peak_working_set_MiB": 2156.0546875,
+  "sampled_peak_private_MiB": 2211.4296875
+ }
+]

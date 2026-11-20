@@ -1,0 +1,13 @@
+{
+  "case_id": "R01_seed123",
+  "nodes": 40,
+  "tasks": 4,
+  "facilities": 2,
+  "arcs": 232,
+  "budget": 10000.0,
+  "gamma_u": 2.0,
+  "gamma_v": 116.0,
+  "include_nominal_risk": true,
+  "task_specific_risk": false,
+  "index_base": 0
+}

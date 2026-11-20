@@ -1,0 +1,5 @@
+# Preserve the published bytes used by the frozen input and source checksums.
+* -text
+*.gz binary
+*.npz binary
+*.mat binary

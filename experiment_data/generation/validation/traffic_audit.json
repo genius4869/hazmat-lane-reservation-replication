@@ -1,0 +1,10 @@
+{
+  "operation": "audit",
+  "equilibria": 259,
+  "baseline_tstt": 31196.398830135546,
+  "maximum_relative_gap": 9.999951431451921e-09,
+  "maximum_flow_balance_error": 7.412381819449365e-11,
+  "scale": 0.28390796785690503,
+  "maximum_absolute_impact_difference": 2.984279490192421e-13,
+  "mean_absolute_impact_difference": 6.1356286630364385e-15
+}

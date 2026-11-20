@@ -1,0 +1,13 @@
+{
+  "case_id": "EM_SUB_s12_r1_m6",
+  "nodes": 74,
+  "tasks": 12,
+  "facilities": 6,
+  "arcs": 258,
+  "budget": 10000.0,
+  "gamma_u": 6.0,
+  "gamma_v": 129.0,
+  "include_nominal_risk": true,
+  "task_specific_risk": true,
+  "index_base": 0
+}

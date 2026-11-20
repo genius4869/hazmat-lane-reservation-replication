@@ -1,0 +1,7 @@
+# Locally reproduced outputs
+/work/
+/reproduced/
+**/build/
+**/.gradle/
+**/__pycache__/
+*.pyc

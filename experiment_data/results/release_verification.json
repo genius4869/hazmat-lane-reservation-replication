@@ -1,0 +1,106 @@
+{
+  "environment": {
+    "os": "Windows",
+    "java": "15.0.1",
+    "cplex": "22.1.0",
+    "kotlin_compiler": "2.1.21",
+    "kotlin_stdlib": "2.1.10",
+    "python": "3.11.3",
+    "numpy": "1.24.3",
+    "scipy": "1.10.1",
+    "matplotlib": "3.7.1",
+    "networkx": "2.8.4"
+  },
+  "reference_inputs": 380,
+  "source_rebuilds": [
+    "Gradle 7.6.4",
+    "Python launcher with local JDK and Kotlin compiler"
+  ],
+  "smoke_test_heap_mib": 1024,
+  "timing_note": "Observed during a release check. External solver seconds exclude post-solve verification. Study timings are in the module result files.",
+  "fresh_solves": [
+    {
+      "case_id": "EM_SUB_s12_r1_m6",
+      "input_sha256": "cf4d99f3dd2fc5dca902ca2d399dcdfba71e287f5dadcda39e5b3dbc450b4e00",
+      "algorithm": "BPA",
+      "limit_seconds": 1800.0,
+      "external_solver_seconds": 5.452498,
+      "solver_milliseconds": 5446,
+      "objective": 142205.81143249417,
+      "lower_bound": 142205.81143236416,
+      "termination": "OPTIMAL_WITHIN_TOLERANCE",
+      "verification": "PASS",
+      "tasks_verified": 12
+    },
+    {
+      "case_id": "EM_SUB_s12_r1_m6",
+      "input_sha256": "cf4d99f3dd2fc5dca902ca2d399dcdfba71e287f5dadcda39e5b3dbc450b4e00",
+      "algorithm": "CPA",
+      "limit_seconds": 1800.0,
+      "external_solver_seconds": 1.2915757,
+      "solver_milliseconds": 1263,
+      "objective": 142205.81143249414,
+      "lower_bound": 142205.81143249417,
+      "termination": "OPTIMAL",
+      "verification": "PASS",
+      "tasks_verified": 12
+    },
+    {
+      "case_id": "R01_seed123",
+      "input_sha256": "730ad429dda1f876ccd8cccafb2d5dc6a1b0699fde21ca2005e8579ac103f0f0",
+      "algorithm": "BPA",
+      "limit_seconds": 600.0,
+      "external_solver_seconds": 0.3695322,
+      "solver_milliseconds": 360,
+      "objective": 16763.455383032706,
+      "lower_bound": 16763.455382982705,
+      "termination": "OPTIMAL_WITHIN_TOLERANCE",
+      "verification": "PASS",
+      "tasks_verified": 4
+    },
+    {
+      "case_id": "R01_seed123",
+      "input_sha256": "730ad429dda1f876ccd8cccafb2d5dc6a1b0699fde21ca2005e8579ac103f0f0",
+      "algorithm": "CPA",
+      "limit_seconds": 600.0,
+      "external_solver_seconds": 0.3314558,
+      "solver_milliseconds": 315,
+      "objective": 16763.455383032706,
+      "lower_bound": 16763.455383032706,
+      "termination": "OPTIMAL",
+      "verification": "PASS",
+      "tasks_verified": 4
+    }
+  ],
+  "table_cells_and_structure_checks": 460,
+  "table_display_mismatches": 0,
+  "rebuilt_table_sha256_utf8_lf": {
+    "table1_random.csv": "d8f8ccef89775d929e85fa70000a19659f863b20356d469d6c2390715a648216",
+    "table2_em.csv": "a3c82c285aa18f9c279ac8872855da57a2e841201243fafda66a97e69fca0968",
+    "table3_carrier_response.csv": "9ed4521a0c9767b475005f5ae4da9209d21330d02296ea6a55b8860a7c5e46ba",
+    "table4_fixed_route_risk.csv": "a2a2031cf63d9874d6f82005260720fa350922d1e17ae133eec6460c833679d9",
+    "runtime_summary.csv": "63ef791393bdf79726cb3909e580a81cb6461ef44f9d2bac616e7057a27cb53a"
+  },
+  "figure_pixel_matches_on_tested_machine": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "design_reevaluations": {
+    "carrier_designs": 62,
+    "tie_designs": 352,
+    "tie_task_responses": 5164,
+    "sequential_designs": 54,
+    "fixed_route_risk_evaluations": 9
+  },
+  "network_to_solver_input_check": {
+    "baseline_and_perturbed_equilibria": 259,
+    "flow_vectors_match_reference": true,
+    "recalculated_impact_matrix_sha256": "ce9c152c098a8026dd4538e53191d0e25117674dd7d110085024d22cec43f674",
+    "matching_gzip_inputs": 380,
+    "matching_metadata_records": 380,
+    "matching_uncompressed_inputs": 380
+  }
+}

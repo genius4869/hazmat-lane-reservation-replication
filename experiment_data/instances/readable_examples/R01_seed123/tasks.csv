@@ -1,0 +1,5 @@
+task_index,origin,nominal_demand,demand_deviation,time_window
+0,9,120.0,53.06,4.47
+1,0,64.0,51.19,5.75
+2,21,82.0,51.1,4.07
+3,20,115.0,55.28,2.11
